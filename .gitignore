@@ -1,0 +1,10 @@
+/build/
+/build-*/
+/.venv/
+__pycache__/
+*.o
+*.a
+*.bin
+*.heim
+.ignore
+.clangd
